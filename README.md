@@ -1,1 +1,1 @@
-# Lab-1-LAW-Laravel
+# Lab-1-LAW-Django
